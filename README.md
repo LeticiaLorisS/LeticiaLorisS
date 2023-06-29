@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Letícia Lóris 😊
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-l-131995219/)
 
-![LeticiaLorisS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticiaLorisS&show_icons=true&theme=d0)
+![LeticiaLorisS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticiaLorisS&show_icons=true&theme=draculad0)
 
 ### Tecnologias que uso no meu dia:
 
