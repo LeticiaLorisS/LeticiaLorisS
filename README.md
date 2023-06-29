@@ -13,4 +13,5 @@
 <img align="center"alt="Html5"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
+
 Apaixonada por tecnologia e conhecimento.
