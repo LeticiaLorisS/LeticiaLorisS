@@ -18,7 +18,7 @@
 <img align="center"alt="Html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </div>.
 
-entre em contato comigo através do :
+Entre em contato comigo através do :
 <a href="https://www.instagram.com/let_loris/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" height="20px">
   </a>
@@ -32,7 +32,7 @@ entre em contato comigo através do :
 
 
 
-workspace Specs:
+Workspace Specs:
 <div>
 <img align="center"alt="Html5"src="https://img.shields.io/badge/Intel-Core_i3_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 </div>
