@@ -29,7 +29,7 @@ entre em contato comigo através do :
   <a href="https://www.linkedin.com/in/leticia-l-131995219/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" height="20px">
   </a> 
-  Atualmente estou focada em Desenvolvimento Web😊
+
 
 
 workspace Specs:
@@ -40,3 +40,5 @@ workspace Specs:
 <div>
 <img align="center"alt="Html5"src="https://img.shields.io/badge/NVIDIA-GTX750TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </div>
+.
+Atualmente estou focada em Desenvolvimento Web😊
