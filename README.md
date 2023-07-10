@@ -35,8 +35,10 @@
 <div>
 <img align="center"alt="Html5"src="https://img.shields.io/badge/NVIDIA-GTX750TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white"height="25px"/>
 </div>
-
-  ![Snake animation](https://github.com/LeticiaLorisS/LeticiaLorisS/blob/output/github-contribution-grid-snake.svg)
+<div>
+    ![Snake animation](https://github.com/LeticiaLorisS/LeticiaLorisS/blob/output/github-contribution-grid-snake.svg)
   
+</div>
+
 
 ## Atualmente estou focada em Desenvolvimento Web😊
