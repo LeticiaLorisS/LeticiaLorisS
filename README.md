@@ -1,4 +1,4 @@
-### Olá! Eu sou a Letícia Lóris 😊
+### Olá! Me chamo Letícia Lóris 😊
 <div>
 <img align="right" height="250em" src="https://i.picasion.com/pic92/5a20e7e230f9c276e362e74a986730a1.gif" 
 </div>
