@@ -37,4 +37,3 @@
 </div>
 
 ## Atualmente estou focada em Desenvolvimento Web😊
-![snake gif](https://github.com/LeticiaLorisS/LeticiaLorisS/blob/output/github-contribution-grid-snake.svg)
