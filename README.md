@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Letícia Lóris 😊
 <div>
-<img align="right" height="250em" src="https://i.picasion.com/pic92/d2057d4e71ab36b4489e9dcea2f7ba5b.gif">
+<img align="right" height="250em" src="https://i.picasion.com/pic92/5a20e7e230f9c276e362e74a986730a1.gif" 
 </div>
 
 ![LeticiaLorisS GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticiaLorisS&show_icons=true&theme=material-palenight)
