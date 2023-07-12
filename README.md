@@ -2,6 +2,8 @@
 <div>
 <img align="right" height="250em" src="https://i.picasion.com/pic92/5a20e7e230f9c276e362e74a986730a1.gif" 
 </div>
+
+  ![LeticiaLorisS GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticiaLorisS&show_icons=true&theme=radical)
 ## Tecnologias que estou aprendendo:
 <div style="display: inline_black"><br/>
 <img align="center"alt="Html5"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
