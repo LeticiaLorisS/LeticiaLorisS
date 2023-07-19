@@ -36,5 +36,3 @@
 <div>
 <img align="center"alt="Html5"src="https://img.shields.io/badge/NVIDIA-GTX750TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white"height="25px"/>
 </div>
-
-## Atualmente estou focada em Desenvolvimento Web😊
